@@ -1,1 +1,3 @@
-# COMP115-Assessment-1
+# COMP115_Assessment_1
+
+> Nicholas Ramsay
