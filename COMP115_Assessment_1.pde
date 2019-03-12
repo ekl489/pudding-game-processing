@@ -31,6 +31,4 @@ void draw() {
   // draw player
   fill(color(255,0,0));
   circle(mouseX, player_y, 30); // place player on mouseX and ground
-  
-  
 } 
